@@ -25,3 +25,8 @@
     font-weight: 700;
     margin: 3rem 0;
 }
+.blog-date {
+    font-size: smaller;
+    color: darkgray;
+    
+}
