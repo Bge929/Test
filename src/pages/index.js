@@ -18,11 +18,3 @@ const IndexPage = () => {
 export const Head = () => <Seo title="Home page" />
 
 export default IndexPage
-
-// query MyQuery {
-//     allFile(filter: {sourceInstanceName: {eq: "blog"}}) {
-//       nodes {
-//         name
-//       }
-//     }
-//   }
