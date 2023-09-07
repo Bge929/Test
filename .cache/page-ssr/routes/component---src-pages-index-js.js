@@ -135,6 +135,7 @@ module.exports["default"] = camelCase;
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   blogDate: () => (/* binding */ blogDate),
 /* harmony export */   container: () => (/* binding */ container),
 /* harmony export */   heading: () => (/* binding */ heading),
 /* harmony export */   navLinkItem: () => (/* binding */ navLinkItem),
@@ -149,6 +150,7 @@ var navLinks = "layout-module--nav-links--1113b";
 var navLinkItem = "layout-module--nav-link-item--a5f0a";
 var navLinkText = "layout-module--nav-link-text--69cda";
 var siteTitle = "layout-module--site-title--e4dea";
+var blogDate = "layout-module--blog-date--0efea";
 
 
 /***/ }),
